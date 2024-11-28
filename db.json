@@ -1,0 +1,84 @@
+{
+  "bookings": [
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-26",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-03",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-03",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-03",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-26",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-26",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "e",
+      "email": "727823tucs038@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-31",
+      "checkOut": "2024-10-17",
+      "guests": 1,
+      "specialRequests": ""
+    },
+    {
+      "id": null,
+      "name": "h",
+      "email": "22it.kavipriyaa.s@skct.edu.in",
+      "phone": "9585572925",
+      "checkIn": "2024-10-17",
+      "checkOut": "2024-10-26",
+      "guests": 1,
+      "specialRequests": ""
+    }
+  ]
+}
